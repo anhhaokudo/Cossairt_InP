@@ -1,0 +1,8 @@
+doi,in_source,in_amount_mmol,p_source,p_amount_mmol,first_sol,first_sol_amount_ml,second_sol,second_sol_amount_ml,acid,acid_amount_mmol,ligand_source,ligand_amount_mmol,other_1,other_1_amount_mmol,other_2,other_2_amount_mmol,total_volume_ml,temp_c,time_min,diameter_nm,abs_nm,emission_nm,date_input,user
+10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine ,15.2,zinc chloride,0.9,None,0,5.002,220,0.5,2.1,None,None,7/21/2021,Hao
+10.1002/smll.201905162,indium acetate,3,tris(trimethylsilyl)phosphine,1.5,octadecene,45,trioctylphosphine,3,oleic acid,9,None,0,None,0,None,0,48,260,60,2.4,None,None,7/20/2021,Hao
+10.1038/s42004-019-0138-z,indium chloride,0.45,tris(dimethylamino)phosphine,1.6,None,0,None,0,None,0,oleylamine,6.15,zinc chloride,2.2,None,0,2.024,180,30,2.48,None,None,7/13/2021,Nayon
+10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine ,15.2,zinc chloride,0.9,None,0,5.002,220,10,3,None,None,7/21/2021,Hao
+10.1021/acs.nanolett.7b02634,indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0,None,0,None,0,oleylamine,7.5,zinc chloride,1.1,None,0,2.468,180,20,3.2,None,None,6/26/2021,Hao
+10.1021/acsenergylett.0c02165,indium acetate,0.34,tris(trimethylsilyl)phosphine,0.23,octadecene,9,None,0,oleic acid,1,None,0,None,0,None,0,9,310,10,3.2,None,None,7/21/2021,Hao
+10.1021/acs.jpclett.9b01824,indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0,None,0,None,0,oleylamine,7.5,zinc chloride,1.1,None,0,2.468,180,20,3.2,None,None,8/3/2021,Hao
