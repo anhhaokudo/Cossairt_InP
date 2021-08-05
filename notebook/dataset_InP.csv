@@ -28,7 +28,7 @@
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,None,0,None,None,0,oleylamine,15.2,zinc chloride,2.2,mmol,None,0,mmol,180,1,None,461,None,6/26/2021,Hao
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,None,0,None,None,0,oleylamine,15.2,zinc chloride,2.2,mmol,water,1.2,mmol,180,1,None,438,None,6/26/2021,Hao
 10.1021/acs.chemmater.7b02204,indium acetate,0.15,tris(trimethylsilyl)phosphine,0.1,octadecene,10,mL,trioctylphosphine,1,mL,palmitic acid,0.45,None,0,None,0,None,None,0,None,305,2,1.8,472,None,6/26/2021,Hao
-10.3390/ma12142267,indium iodide,0.3,tris(dimethylamino)phosphine,0.66,None,0,None,None,0,None,None,0,oleylamine,6,zinc chloride,0.73,mmol,None,0,None,180,2,None,505,530,8/9/2021,Hao
+10.3390/ma12142267,indium iodide,0.3,tris(dimethylamino)phosphine,0.66,None,0,None,None,0,None,None,0,oleylamine,6,zinc chloride,0.73,mmol,None,0,None,180,2,None,505,530,8/3/2021,Hao
 10.1021/acsanm.0c00008,indium iodide,0.9,tris(dimethylamino)phosphine,1.3,None,0,None,None,0,None,None,0,oleylamine,6,zinc chloride,2.2,mmol,None,0,None,180,2,None,485,None,7/21/2021,Hao
 10.1002/adom.202100427,indium chloride,1.8,tris(dimethylamino)phosphine,3.84,None,0,None,trioctylphosphine,1.3,mL,None,0,oleylamine,12,zinc chloride,4.4,mmol,None,0,None,180,2,2.2,444,None,7/6/2021,Hao
 10.1021/cm050110a,indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44,mL,None,0,None,None,0,None,0,None,0,None,None,0,None,290,2.5,None,522,745,6/25/2021,Hao
@@ -90,10 +90,10 @@ tris(dimethylamino)phenol,indium acetate,0.34,tris(trimethylsilyl)phosphine,0.23
 10.1021/ja309863n,indium myristate,0.3,tris(trimethylsilyl)phosphine,0.15,octadecene,4,mL,trioctylphosphine,1,mL,None,0,None,0,None,0,None,None,0,None,210,14,None,532,581,6/25/2021,Hao
 10.1021/nl025687v,indium acetate,0.1,tris(trimethylsilyl)phosphine,0.05,octadecene,7.6,mL,None,0,None,lauric acid,0.3,None,0,None,0,None,None,0,None,270,15,None,574,None,6/25/2021,Hao
 10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,mL,None,0,None,myristic acid,0.6,None,0,None,0,None,None,0,None,200,15,None,548,None,8/3/2021,Hao
-10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,mL,None,0,None,myristic acid,0.6,None,0,None,0,None,None,0,None,220,15,None,570,None,8/4/2021,Hao
-10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,mL,None,0,None,myristic acid,0.6,None,0,None,0,None,None,0,None,260,15,None,600,None,8/5/2021,Hao
-10.1134/S0036023618040071,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,230,15,4.5,623,None,8/6/2021,Hao
-10.3762/bjnano.5.135,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,260,15,4.5,660,None,8/7/2021,Hao
+10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,mL,None,0,None,myristic acid,0.6,None,0,None,0,None,None,0,None,220,15,None,570,None,8/3/2021,Hao
+10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,mL,None,0,None,myristic acid,0.6,None,0,None,0,None,None,0,None,260,15,None,600,None,8/3/2021,Hao
+10.1134/S0036023618040071,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,230,15,4.5,623,None,8/3/2021,Hao
+10.3762/bjnano.5.135,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,260,15,4.5,660,None,8/3/2021,Hao
 10.1016/j.jallcom.2013.08.003,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,200,15,2.5,601,None,6/26/2021,Hao
 10.1016/j.jallcom.2013.08.003,indium acetate,0.1,phosphine gas,3,octadecene,2,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,260,15,4.3,620,None,6/26/2021,Hao
 10.1021/nl025687v,indium acetate,0.1,tris(trimethylsilyl)phosphine,0.05,octadecene,7.6,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,270,15,None,540,None,6/25/2021,Hao
@@ -120,7 +120,7 @@ tris(dimethylamino)phenol,indium acetate,0.34,tris(trimethylsilyl)phosphine,0.23
 10.1021/acsnano.8b06692,indium acetate,0.2,tris(trimethylsilyl)phosphine,0.1,octadecene,10,mL,trioctylphosphine,0.5,mL,palmitic acid,0.6,None,0,None,0,None,None,0,None,280,20,2.5,580,None,7/27/2021,Melanie Cash
 10.1021/acsnano.8b06692,indium acetate,0.2,tris(trimethylsilyl)phosphine,0.1,octadecene,10,mL,trioctylphosphine,0.5,mL,palmitic acid,0.6,None,0,None,0,None,None,0,None,280,20,3.26,584,615,7/27/2021,Hao
 10.1021/ja076363h,indium acetate,2,tris(trimethylsilyl)phosphine,0.3,octadecene,6.5,mL,None,0,None,myristic acid,7.7,octylamine,3.6,None,0,None,None,0,None,178,20,None,590,None,6/25/2021,Hao
-10.1021/acs.jpclett.9b01824,indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0,None,None,0,None,None,0,oleylamine,7.5,zinc chloride,1.1,mmol,None,0,None,180,20,3.2,None,None,8/8/2021,Hao
+10.1021/acs.jpclett.9b01824,indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0,None,None,0,None,None,0,oleylamine,7.5,zinc chloride,1.1,mmol,None,0,None,180,20,3.2,None,None,8/3/2021,Hao
 10.1016/j.apsusc.2019.01.067,indium chloride,0.9,tris(diethylamino)phosphine,3.2,None,0,None,None,0,None,None,0,oleylamine,17.2,zinc chloride,4.4,mmol,None,0,None,160,20,None,468,None,7/11/2021,Nayon
 10.1016/j.apsusc.2019.01.067,indium chloride,0.9,tris(diethylamino)phosphine,3.2,None,0,None,None,0,None,None,0,oleylamine,17.2,zinc chloride,4.4,mmol,None,0,None,180,20,None,544,None,7/11/2021,Nayon
 10.1016/j.apsusc.2019.01.067,indium chloride,0.9,tris(diethylamino)phosphine,3.2,None,0,None,None,0,None,None,0,oleylamine,17.2,zinc chloride,4.4,mmol,None,0,None,220,20,None,592,None,7/11/2021,Nayon
@@ -130,7 +130,7 @@ tris(dimethylamino)phenol,indium acetate,0.34,tris(trimethylsilyl)phosphine,0.23
 10.1016/j.apsusc.2019.01.067,indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8.5,mL,None,0,None,None,0,None,0,zinc stearate,0.1,mmol,None,0,None,300,20,None,500,550,7/11/2021,Nayon
 10.3389/fnins.2021.652608,indium chloride,0.1,tris(trimethylsilyl)phosphine,0.2,octadecene,6,mL,None,0,None,stearic acid,0.01,hexadecylamine,0.2,zinc undecylenate,0.01,mmol,None,0,None,230,20,3.2,555,645,7/27/2021,Hao
 10.1002/adma.200800724,indium chloride,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,3,mL,None,0,None,stearic acid,0.1,hexadecylamine ,0.2,zinc undecylenate,0.08,mmol,None,0,None,240,20,None,570,630,7/29/2021,Hao
-10.1021/acsami.7b19144,indium chloride,0.3,tris(trimethylsilyl)phosphine,0.3,octadecene,9,mL,None,0,None,oleic acid,0.34,oleylamine,0.62,zinc undecylenate,0.3,mmol,None,0,None,210,20,1.95,595,620,8/10/2021,Hao
+10.1021/acsami.7b19144,indium chloride,0.3,tris(trimethylsilyl)phosphine,0.3,octadecene,9,mL,None,0,None,oleic acid,0.34,oleylamine,0.62,zinc undecylenate,0.3,mmol,None,0,None,210,20,1.95,595,620,8/3/2021,Hao
 10.1088/0957-4484/23/48/485609/meta,indium chloride,0.2,tris(trimethylsilyl)phosphine,0.2,octadecene,6.5,mL,None,0,None,myristic acid,0.7,octylamine,1.2,acetic acid,0.6,mmol,None,0,None,130,30,None,408,None,6/25/2021,Hao
 10.1021/nl025687v,indium acetate,0.1,tris(trimethylsilyl)phosphine,0.05,octadecene,7.6,mL,None,0,None,lauric acid,0.3,None,0,None,0,None,None,0,None,270,30,None,574,None,6/25/2021,Hao
 10.1021/cm7035579,indium acetate,0.1,phosphine gas,0.3,octadecene,8.62,mL,None,0,None,myristic acid,0.3,None,0,None,0,None,None,0,None,290,30,None,631,None,6/25/2021,Hao
