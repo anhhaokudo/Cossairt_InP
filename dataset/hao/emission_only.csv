@@ -1,0 +1,111 @@
+in_source,in_amount_mmol,p_source,p_amount_mmol,first_sol,first_sol_amount_ml,TOP,TOP_amount_mmol,acid,acid_amount_mmol,amine,amine_amount_mmol,thiol,thiol_amount_mmol,zinc,zinc_amount_mmol,other,other_amount_mmol,total_volume_ml,temp_c,time_min,emission_nm
+indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.05,zinc stearate,0.1,None,0.0,8.012,300,30.0,481
+indium chloride,10.0,sodium phosphide,11.3,dimethylformamide,90.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,90.0,160,120.0,550
+indium chloride,0.45,tris(dimethylamino)phosphine,2.48,None,0.0,None,0.0,None,0.0,oleylamine,6.15,None,0.0,zinc chloride,2.2,None,0.0,2.024,200,20.0,592
+indium iodide,0.3,white phosphorus,0.299,None,0.0,None,0.0,None,0.0,oleylamine,4.06,None,0.0,zinc iodide,1.47,None,0.0,1.336,180,30.0,482
+indium chloride,0.3,white phosphorus,0.45,None,0.0,None,0.0,None,0.0,oleylamine,4.06,None,0.0,zinc chloride,1.47,None,0.0,1.336,150,30.0,529
+indium chloride,0.3,white phosphorus,0.45,None,0.0,None,0.0,None,0.0,oleylamine,4.06,None,0.0,zinc chloride,1.47,None,0.0,1.336,180,30.0,555
+indium chloride,0.3,white phosphorus,0.45,None,0.0,None,0.0,None,0.0,oleylamine,0.8,None,0.0,zinc chloride,1.47,None,0.0,0.264,180,30.0,595
+indium chloride,0.3,white phosphorus,0.45,None,0.0,None,0.0,None,0.0,oleylamine,0.8,None,0.0,zinc chloride,1.47,None,0.0,0.264,210,30.0,635
+indium chloride,0.45,tris(dimethylamino)phosphine,1.926,None,0.0,None,0.0,None,0.0,oleylamine,7.4,None,0.0,zinc iodide,2.2,None,0.0,2.435,170,10.0,518
+indium chloride,0.45,tris(dimethylamino)phosphine,1.926,None,0.0,None,0.0,None,0.0,oleylamine,7.4,None,0.0,zinc chloride,2.2,None,0.0,2.435,170,10.0,628
+indium chloride,0.45,tris(dimethylamino)phosphine,1.93,None,0.0,None,0.0,None,0.0,oleylamine,15.2,None,0.0,zinc chloride,2.2,copper bromide,0.45,5.002,200,60.0,422
+indium chloride,0.45,tris(dimethylamino)phosphine,1.93,None,0.0,None,0.0,None,0.0,oleylamine,15.2,None,0.0,zinc chloride,2.2,None,0.0,5.002,200,60.0,625
+indium chloride,0.5,tris(dimethylamino)phosphine,2.75,None,0.0,None,0.0,None,0.0,oleylamine,6.15,None,0.0,zinc chloride,1.5,zinc iodide,0.5,2.024,180,30.0,560
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,None,0.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc stearate,2.0,None,0.0,0.12,300,30.0,480
+indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0.0,None,0.0,None,0.0,oleylamine,7.5,None,0.0,zinc chloride,1.1,None,0.0,2.468,180,20.0,618
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,33.0,None,0.0,zinc iodide,2.2,None,0.0,10.858,150,30.0,502
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,15.0,None,0.0,zinc iodide,2.2,None,0.0,4.936,180,30.0,507
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,15.0,None,0.0,zinc bromide,2.2,None,0.0,4.936,180,30.0,531
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,33.0,None,0.0,zinc bromide,2.2,None,0.0,10.858,150,30.0,538
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,33.0,None,0.0,zinc chloride,2.2,None,0.0,10.858,150,30.0,606
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,None,0.0,None,0.0,None,0.0,oleylamine,15.0,None,0.0,zinc chloride,2.2,None,0.0,4.936,180,30.0,607
+indium iodide,0.3,tris(dimethylamino)phosphine,0.66,None,0.0,None,0.0,None,0.0,oleylamine,6.0,None,0.0,zinc chloride,0.73,None,0.0,1.975,180,2.0,530
+indium acetate,0.7,tris(trimethylsilyl)phosphine,0.35,octadecene,40.0,None,0.0,palmitic acid,2.1,None,0.0,None,0.0,None,0.0,None,0.0,40.0,270,180.0,591
+indium myristate,0.3,tris(trimethylsilyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,20.0,612
+indium acetate,0.5,phosphorus trichloride,0.5,octadecene,34.0,None,0.0,stearic acid,1.5,None,0.0,None,0.0,None,0.0,dioctyl ether,3.0,34.901,250,240.0,618
+indium myristate,0.3,tris(trimethylgermyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,20.0,641
+indium acetate,0.4,tris(trimethylsilyl)phosphine,0.2,octadecene,6.5,None,0.0,myristic acid,1.7,octylamine,1.52,None,0.0,None,0.0,None,0.0,6.752,180,10.0,588
+indium acetate,1.0,tris(trimethylsilyl)phosphine,0.499,octadecene,75.0,None,0.0,myristic acid,3.0,None,0.0,None,0.0,None,0.0,None,0.0,75.0,270,180.0,630
+indium trifluoroacetate,0.11,tris(trimethylsilyl)phosphine,0.1,octadecene,7.0,None,0.0,myristic acid,0.3,None,0.0,None,0.0,None,0.0,None,0.0,7.0,270,240.0,590
+indium laurate,0.5,tris(trimethylsilyl)phosphine,0.25,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,245,5.0,552
+indium laurate,0.5,tris(trimethylsilyl)phosphine,0.25,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,245,10.0,562
+indium myristate,0.3,tris(trimethylsilyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,10.0,572
+indium laurate,0.5,tris(trimethylsilyl)phosphine,0.25,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,245,15.0,575
+indium myristate,0.3,tris(trimethylsilyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,14.0,581
+indium myristate,0.3,tris(trimethylgermyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,10.0,582
+indium laurate,0.5,tris(trimethylsilyl)phosphine,0.25,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,245,180.0,592
+indium myristate,0.3,tris(trimethylgermyl)phosphine,0.15,octadecene,4.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,5.0,210,14.0,601
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,260,1.0,607
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,260,2.5,635
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,1.0,669
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,270,1.0,691
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,2.5,696
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,5.0,706
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,10.0,722
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,1.0,724
+indium stearate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,15.0,725
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,260,1.0,729
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,280,1.0,736
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,250,5.0,736
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,290,2.5,745
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,270,5.0,747
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,260,5.0,751
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,270,10.0,765
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,250,15.0,765
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,280,5.0,772
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,250,30.0,785
+indium myristate,0.25,tris(trimethylsilyl)phosphine,0.125,octadecene,44.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,44.0,260,15.0,788
+indium chloride,0.5,tris(trimethylsilyl)phosphine,0.6,octadecene,15.0,trioctylphosphine,0.600881462,None,0.0,oleylamine,1.0,None,0.0,zinc undecylenate,0.5,None,0.0,15.598,230,10.0,522
+indium chloride,0.5,tris(trimethylsilyl)phosphine,0.4,octadecene,15.0,None,0.0,None,0.0,oleylamine,1.0,None,0.0,zinc undecylenate,0.5,None,0.0,15.33,230,10.5,572
+indium chloride,0.5,tris(trimethylsilyl)phosphine,0.6,octadecene,15.0,trioctylphosphine,0.605365652,None,0.0,oleylamine,1.0,None,0.0,zinc undecylenate,0.5,None,0.0,15.6,230,40.0,574
+indium chloride,0.5,tris(trimethylsilyl)phosphine,0.4,octadecene,15.0,None,0.0,None,0.0,oleylamine,1.0,None,0.0,zinc undecylenate,0.5,None,0.0,15.33,230,40.0,591
+indium acetate,0.4,tris(trimethylsilyl)phosphine,0.4,octadecene,3.0,None,0.0,None,0.0,oleylamine,1.5,None,0.0,None,0.0,None,0.0,3.494,178,4.0,568
+indium acetate,1.2,tris(trimethylsilyl)phosphine,1.2,octadecene,3.0,None,0.0,None,0.0,oleylamine,1.5,None,0.0,None,0.0,None,0.0,3.494,178,32.0,589
+indium myristate,2.0,tris(trimethylsilyl)phosphine,0.15,octadecene,5.0,trioctylphosphine,2.242095008,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,6.0,300,30.0,590
+indium acetate,4.0,tris(trimethylsilyl)phosphine,2.0,octadecene,10.14,None,0.0,oleic acid,14.5,None,0.0,None,0.0,None,0.0,None,0.0,15.0,305,20.0,595
+indium acetate,0.2,tris(trimethylsilyl)phosphine,0.1,octadecene,10.0,None,0.0,myristic acid,0.6,None,0.0,None,0.0,None,0.0,None,0.0,10.0,300,20.0,558
+indium acetate,1.2,tris(trimethylsilyl)phosphine,1.2,octadecene,3.0,None,0.0,None,0.0,dioctylamine,0.5,None,0.0,None,0.0,None,0.0,3.151,178,840.0,680
+indium acetate,1.2,tris(trimethylsilyl)phosphine,0.607,octadecene,12.0,None,0.0,stearic acid,3.6,None,0.0,None,0.0,None,0.0,None,0.0,12.0,230,15.0,542
+indium acetate,1.2,tris(trimethylsilyl)phosphine,0.607,octadecene,12.0,None,0.0,palmitic acid,3.6,None,0.0,None,0.0,None,0.0,None,0.0,12.0,230,5.0,548
+indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8.5,None,0.0,None,0.0,None,0.0,None,0.0,zinc stearate,0.1,None,0.0,8.5,300,20.0,550
+indium acetate,1.2,tris(trimethylsilyl)phosphine,0.607,octadecene,12.0,None,0.0,myristic acid,3.6,None,0.0,None,0.0,None,0.0,None,0.0,12.0,230,5.0,554
+indium acetate,1.2,tris(trimethylsilyl)phosphine,0.607,octadecene,12.0,None,0.0,oleic acid,3.6,None,0.0,None,0.0,None,0.0,None,0.0,12.0,230,15.0,558
+indium acetate,0.6,tris(trimethylsilyl)phosphine,0.4,octadecene,10.0,trioctylphosphine,2.242095008,lauric acid,1.8,None,0.0,None,0.0,zinc acetate,1.2,oleic acid,2.4,11.0,240,60.0,477
+indium acetate,0.6,tris(trimethylsilyl)phosphine,0.4,octadecene,10.0,trioctylphosphine,2.242095008,lauric acid,1.8,None,0.0,None,0.0,zinc oleate,1.2,None,0.0,11.0,240,60.0,477
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,6.75,None,0.0,oleic acid,0.91,None,0.0,None,0.0,zinc oleate,0.1,None,0.0,6.75,300,10.0,507
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,6.75,None,0.0,oleic acid,0.268,None,0.0,None,0.0,zinc oleate,0.1,None,0.0,6.75,300,10.0,518
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,6.75,None,0.0,oleic acid,0.288,None,0.0,None,0.0,zinc oleate,0.1,None,0.0,6.75,300,10.0,522
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,6.75,None,0.0,oleic acid,0.308,None,0.0,None,0.0,zinc oleate,0.1,None,0.0,6.75,300,10.0,525
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,6.75,None,0.0,oleic acid,0.248,None,0.0,None,0.0,zinc oleate,0.1,None,0.0,6.75,300,10.0,530
+indium acetate,0.08,tris(trimethylsilyl)phosphine,0.08,octadecene,7.0,None,0.0,myristic acid,0.26,octylamine,0.38,None,0.0,None,0.0,None,0.0,7.063,200,30.0,590
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,180,60.0,500
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,180,120.0,520
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,180,240.0,538
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,200,75.0,540
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,280,30.0,590
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,280,120.0,600
+indium acetate,4.0,tris(trimethylsilyl)phosphine,2.0,octadecene,17.0,None,0.0,myristic acid,14.5,None,0.0,None,0.0,None,0.0,None,0.0,17.0,285,20.0,579
+indium chloride,0.1,tris(trimethylsilyl)phosphine,0.2,octadecene,6.0,None,0.0,stearic acid,0.01,hexadecylamine,0.2,None,0.0,zinc undecylenate,0.01,None,0.0,6.052,230,20.0,645
+indium acetate,0.2,tris(trimethylsilyl)phosphine,0.1,octadecene,10.0,trioctylphosphine,1.121047504,palmitic acid,0.6,None,0.0,None,0.0,None,0.0,None,0.0,10.5,280,20.0,615
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,0.45,oleylamine,9.0,None,0.0,zinc iodide,2.2,None,0.0,13.962,150,30.0,470
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,1.35,oleylamine,9.0,None,0.0,zinc iodide,2.2,None,0.0,13.962,150,30.0,475
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,1.35,oleylamine,9.0,None,0.0,zinc bromide,2.2,None,0.0,13.962,150,30.0,501
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,0.45,oleylamine,9.0,None,0.0,zinc bromide,2.2,None,0.0,13.962,150,30.0,502
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,0.45,oleylamine,9.0,None,0.0,zinc chloride,2.2,None,0.0,13.962,150,30.0,551
+indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11.0,None,0.0,myristic acid,1.35,oleylamine,9.0,None,0.0,zinc chloride,2.2,None,0.0,13.962,150,30.0,555
+indium acetate,1.0,tris(trimethylsilyl)phosphine,1.0,octadecene,1.0,None,0.0,None,0.0,None,0.0,dodecanethiol,0.5,zinc octanoate,2.0,None,0.0,1.12,230,30.0,560
+indium chloride,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,3.0,None,0.0,stearic acid,0.1,hexadecylamine ,0.2,None,0.0,zinc undecylenate,0.08,None,0.0,3.052,240,20.0,630
+indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,10.0,None,0.0,oleic acid,0.3,None,0.0,None,0.0,zinc oleate,0.13,None,0.0,10.0,300,10.0,480
+indium acetate,0.2,phosphine gas,0.19,octadecene,15.0,None,0.0,myristic acid,0.6,None,0.0,None,0.0,None,0.0,None,0.0,15.0,240,20.0,610
+indium chloride,0.3,tris(trimethylsilyl)phosphine,0.3,octadecene,9.0,None,0.0,oleic acid,0.34,oleylamine,0.62,None,0.0,zinc undecylenate,0.3,None,0.0,9.204,210,20.0,620
+indium chloride,1.81,tris(dimethylamino)phosphine,2.75,toluene,5.0,None,0.0,None,0.0,dodecylamine,27.0,None,0.0,None,0.0,None,0.0,11.198,180,1440.0,590
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,250,4320.0,600
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,260,4320.0,646
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,270,4320.0,677
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,280,4320.0,729
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,290,4320.0,765
+indium oxalate,2.33,tris(trimethylsilyl)phosphine,3.0,None,0.0,trioctylphosphine,24.55242427,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,1.011111111,11.962,300,4320.0,775
+chloroindium oxalate,4.2,tris(trimethylsilyl)phosphine,2.07,None,0.0,trioctylphosphine,13.45257005,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,11.11111111,17.112,280,4320.0,612
+indium chloride,2.26,tris(trimethylsilyl)phosphine,2.0,None,0.0,trioctylphosphine,17.93676007,None,0.0,None,0.0,None,0.0,None,0.0,trioctylphosphine oxide,0.83,8.83,270,1140.0,653
+indium chloride,0.1,tris(trimethylsilyl)phosphine,0.1,None,0.0,trioctylphosphine,11.21047504,None,0.0,None,0.0,None,0.0,zinc oleate,2.0,None,0.0,5.0,280,60.0,485
