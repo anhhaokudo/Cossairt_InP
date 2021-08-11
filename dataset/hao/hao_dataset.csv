@@ -1,9 +1,9 @@
-doi,in_source,in_amount_mmol,p_source,p_amount_mmol,first_sol,first_sol_amount_ml,TOP,TOP_amount_mmol,acid,acid_amount_mmol,amine,amine_amount_mmol,thiol,thiol_amount_mmol,zinc,zinc_amount_mmol,other,other_amount_mmol,total_volume_ml,temp_c,time_min,diameter_nm,abs_nm,emission_nm,date_input,user
+doi,in_source,in_amount_mmol,p_source,p_amount_mmol,sol,sol_amount_ml,TOP,TOP_amount_mmol,acid,acid_amount_mmol,amine,amine_amount_mmol,thiol,thiol_amount_mmol,zinc,zinc_amount_mmol,other,other_amount_mmol,total_volume_ml,temp_c,time_min,diameter_nm,abs_nm,emission_nm,date_input,user
 10.1080/15980316.2012.683537,indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8,None,0,None,0,None,0,dodecanethiol,0.05,zinc stearate,0.1,None,0,8.012,300,30,2.3,436,481,6/25/2021,Hao
 10.1016/j.matchemphys.2005.07.041,indium chloride,10,sodium phosphide,10,4-ethylpyridine,50,trioctylphosphine,44.84190017,None,0,None,0,None,0,None,0,None,0,70,130,2880,5,587,None,6/25/2021,Hao
 10.1016/S0167-577X(03)00371-9,indium chloride,10,sodium phosphide,11.3,dimethylformamide,90,None,0,None,0,None,0,None,0,None,0,None,0,90,160,120,None,465,550,6/25/2021,Hao
-10.1021/acs.chemmater.7b04069,"indium tris(N,N?-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,2,523,None,6/26/2021,Hao
-10.1021/acs.chemmater.7b04069,"indium tris(N,N?-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,4.1,584,None,6/26/2021,Hao
+10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,2,523,None,6/26/2021,Hao
+10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,4.1,584,None,6/26/2021,Hao
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,water,1.2,5.002,180,15,1.75,481,None,6/26/2021,Hao
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,None,0,5.002,180,15,2.6,547,None,6/26/2021,Hao
 10.1021/5b02138,indium iodide,0.45,tris(diethylamino)phosphine,1.62,None,0,None,0,None,0,oleylamine,15,None,0,zinc chloride,2.2,None,0,4.936,180,30,2.8,509,None,6/26/2021,Hao
@@ -49,12 +49,12 @@ doi,in_source,in_amount_mmol,p_source,p_amount_mmol,first_sol,first_sol_amount_m
 10.1021/acs.jpcc.9b07092,indium chloride,0.45,tris(dimethylamino)phosphine,1.38,None,0,None,0,None,0,dodecylamine,3.7,None,0,zinc chloride,2.2,None,0,0.85,180,5,3.2,550,None,7/20/2021,Hao
 10.1021/acs.chemmater.8b01789,indium chloride,0.225,tris(diethylamino)phosphine,0.8,None,0,None,0,None,0,oleylamine,7.5,None,0,zinc chloride,1.1,None,0,2.468,180,30,3.2,560,None,7/20/2021,Hao
 10.1021/acs.jpclett.9b02386,indium chloride,0.45,tris(dimethylamino)phosphine,1.93,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,None,0,5.002,200,60,None,590,625,7/20/2021,Hao
-10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine ,15.2,None,0,zinc chloride,0.9,None,0,5.002,220,0.5,2.1,None,None,7/21/2021,Hao
-10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine ,15.2,None,0,zinc chloride,0.9,None,0,5.002,220,10,3,None,None,7/21/2021,Hao
+10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,0.9,None,0,5.002,220,0.5,2.1,None,None,7/21/2021,Hao
+10.1016/j.jlumin.2020.117297,indium chloride,0.9,tris(dimethylamino)phosphine,1.4,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,0.9,None,0,5.002,220,10,3,None,None,7/21/2021,Hao
 10.1021/acsanm.0c00008,indium iodide,0.9,tris(dimethylamino)phosphine,1.3,None,0,None,0,None,0,oleylamine,6,None,0,zinc chloride,2.2,None,0,1.975,180,2,None,485,None,7/21/2021,Hao
 10.1016/j.jcis.2020.03.110,indium chloride,0.5,tris(dimethylamino)phosphine,2.75,None,0,None,0,None,0,oleylamine,6.15,None,0,zinc chloride,1.5,zinc iodide,0.5,2.024,180,30,3,490,560,7/23/2021,Hao
-10.1021/acs.chemmater.0c00781,indium chloride,0.45,tris(diethylamino)phosphine ,0,None,0,None,0,None,0,oleylamine,15,None,0,None,0,None,0,4.936,180,3,None,490,None,7/23/2021,Hao
-10.1021/acs.chemmater.0c00781,indium chloride,0.45,tris(diethylamino)phosphine ,0,None,0,None,0,None,0,oleylamine,15,None,0,None,0,None,0,4.936,180,120,2.5,550,None,7/24/2021,Hao
+10.1021/acs.chemmater.0c00781,indium chloride,0.45,tris(diethylamino)phosphine,0,None,0,None,0,None,0,oleylamine,15,None,0,None,0,None,0,4.936,180,3,None,490,None,7/23/2021,Hao
+10.1021/acs.chemmater.0c00781,indium chloride,0.45,tris(diethylamino)phosphine,0,None,0,None,0,None,0,oleylamine,15,None,0,None,0,None,0,4.936,180,120,2.5,550,None,7/24/2021,Hao
 10.1021/acs.chemmater.0c00551,indium iodide,0.45,tris(dimethylamino)phosphine,1,None,0,None,0,None,0,oleylamine,3.7,None,0,zinc chloride,1.1,None,0,1.218,180,3,1.7,480,None,7/25/2021,Hao
 10.1364/OME.4.001436,indium acetate,1,tris(trimethylsilyl)phosphine,1,None,0,None,0,None,0,None,0,dodecanethiol,0.5,zinc stearate,2,None,0,0.12,300,30,None,539,480,7/25/2021,Hao
 10.1021/acs.chemmater.8b02590,indium chloride,0.23,tris(diethylamino)phosphine,0.8,None,0,None,0,None,0,oleylamine,7.5,None,0,zinc chloride,1.1,None,0,2.468,180,20,2.9,573,618,7/27/2021,Hao
