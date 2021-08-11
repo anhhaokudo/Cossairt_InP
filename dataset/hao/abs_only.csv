@@ -2,8 +2,8 @@ in_source,in_amount_mmol,p_source,p_amount_mmol,sol,sol_amount_ml,TOP,TOP_amount
 indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8,None,0,None,0,None,0,dodecanethiol,0.05,zinc stearate,0.1,None,0,8.012,300,30,436
 indium chloride,10,sodium phosphide,10,4-ethylpyridine,50,trioctylphosphine,44.84190017,None,0,None,0,None,0,None,0,None,0,70,130,2880,587
 indium chloride,10,sodium phosphide,11.3,dimethylformamide,90,None,0,None,0,None,0,None,0,None,0,None,0,90,160,120,465
-"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,523
-"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,584
+"indium tris(N,N-diisopropylacetamidinato)",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,523
+"indium tris(N,N-diisopropylacetamidinato)",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,584
 indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,water,1.2,5.002,180,15,481
 indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,None,0,5.002,180,15,547
 indium iodide,0.45,tris(diethylamino)phosphine,1.62,None,0,None,0,None,0,oleylamine,15,None,0,zinc chloride,2.2,None,0,4.936,180,30,509

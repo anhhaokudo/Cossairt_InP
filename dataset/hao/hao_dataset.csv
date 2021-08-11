@@ -2,8 +2,8 @@ doi,in_source,in_amount_mmol,p_source,p_amount_mmol,sol,sol_amount_ml,TOP,TOP_am
 10.1080/15980316.2012.683537,indium myristate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,8,None,0,None,0,None,0,dodecanethiol,0.05,zinc stearate,0.1,None,0,8.012,300,30,2.3,436,481,6/25/2021,Hao
 10.1016/j.matchemphys.2005.07.041,indium chloride,10,sodium phosphide,10,4-ethylpyridine,50,trioctylphosphine,44.84190017,None,0,None,0,None,0,None,0,None,0,70,130,2880,5,587,None,6/25/2021,Hao
 10.1016/S0167-577X(03)00371-9,indium chloride,10,sodium phosphide,11.3,dimethylformamide,90,None,0,None,0,None,0,None,0,None,0,None,0,90,160,120,None,465,550,6/25/2021,Hao
-10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,2,523,None,6/26/2021,Hao
-10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato) ",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,4.1,584,None,6/26/2021,Hao
+10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato)",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,150,1260,2,523,None,6/26/2021,Hao
+10.1021/acs.chemmater.7b04069,"indium tris(N,N-diisopropylacetamidinato)",0.9,tris(trimethylsilyl)phosphine,0.15,mesitylene,5,None,0,palmitic acid,0.3,hexadecylamine,0.3,None,0,None,0,None,0,5.077,230,1260,4.1,584,None,6/26/2021,Hao
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,water,1.2,5.002,180,15,1.75,481,None,6/26/2021,Hao
 10.1039/C6NR04713K,indium chloride,0.3,tris(dimethylamino)phosphine,0.08,None,0,None,0,None,0,oleylamine,15.2,None,0,zinc chloride,2.2,None,0,5.002,180,15,2.6,547,None,6/26/2021,Hao
 10.1021/5b02138,indium iodide,0.45,tris(diethylamino)phosphine,1.62,None,0,None,0,None,0,oleylamine,15,None,0,zinc chloride,2.2,None,0,4.936,180,30,2.8,509,None,6/26/2021,Hao
