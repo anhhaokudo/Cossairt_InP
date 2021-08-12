@@ -216,7 +216,7 @@ doi,in_source,in_amount_mmol,p_source,p_amount_mmol,sol,sol_amount_ml,TOP,TOP_am
 10.1039/C8NR01286E,indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11,None,0,myristic acid,0.45,oleylamine,9,None,0,zinc chloride,2.2,None,0,13.962,150,30,None,515,551,7/27/2021,Hao
 10.1039/C8NR01286E,indium chloride,0.45,tris(diethylamino)phosphine,1.6,octadecene,11,None,0,myristic acid,1.35,oleylamine,9,None,0,zinc chloride,2.2,None,0,13.962,150,30,None,508,555,7/27/2021,Hao
 10.1002/jsid.308,indium acetate,1,tris(trimethylsilyl)phosphine,1,octadecene,1,None,0,None,0,None,0,dodecanethiol,0.5,zinc octanoate,2,None,0,1.12,230,30,None,None,560,7/27/2021,Hao
-10.1002/adma.200800724,indium chloride,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,3,None,0,stearic acid,0.1,hexadecylamine ,0.2,None,0,zinc undecylenate,0.08,None,0,3.052,240,20,None,570,630,7/29/2021,Hao
+10.1002/adma.200800724,indium chloride,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,3,None,0,stearic acid,0.1,hexadecylamine,0.2,None,0,zinc undecylenate,0.08,None,0,3.052,240,20,None,570,630,7/29/2021,Hao
 10.1021/cm201550w,indium acetate,0.1,tris(trimethylsilyl)phosphine,0.1,octadecene,10,None,0,oleic acid,0.3,None,0,None,0,zinc oleate,0.13,None,0,10,300,10,None,460,480,7/30/2021,Hao
 10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,None,0,myristic acid,0.6,None,0,None,0,None,0,None,0,15,240,13,None,620,None,7/31/2021,Hao
 10.1039/c1jm13982g,indium acetate,0.2,phosphine gas,0.19,octadecene,15,None,0,myristic acid,0.6,None,0,None,0,None,0,None,0,15,240,5,None,570,None,8/1/2021,Hao
